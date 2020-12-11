@@ -10,7 +10,7 @@ const ListItem = ({ link, title, imageSrc, price }) =>  (
     lg:w-1/4
     p1 sm:p-2
   ">
-    <Link to={`/${link}`}>
+    <Link to={`/Rp{link}`}>
       <div className="h-72 flex justify-center items-center bg-light hover:bg-light-200">
         <div className="flex flex-column justify-center items-center">
           <Image alt={title} src={imageSrc} className="w-3/5" />
