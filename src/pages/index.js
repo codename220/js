@@ -27,12 +27,12 @@ const Home = ({ data: gqlData }) => {
               category="BURGER"
             />
             <Center
-              price="200"
+              price="Rp20000"
               title={inventory[2].name}
               link={slugify(inventory[2].name)}
             />
             <Footer
-              Design by="UlfaElroez"
+              Design by="ulfaelroez"
             />
           </div>
           <div className="flex flex-1 justify-center items-center relative">
