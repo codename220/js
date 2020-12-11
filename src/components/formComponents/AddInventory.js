@@ -103,7 +103,7 @@ class AddInventory extends React.Component {
               </div>
             </form>
             <p className="text-center text-gray-500 text-xs">
-              &copy;2020 JAMstack ECommerce. All rights reserved.
+              &copy;2020 ALARAJA FOOD STORE BY NURUL ULFATIL UMMAH. All rights reserved.
             </p>
           </div>
         </div>
