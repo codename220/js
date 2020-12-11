@@ -32,7 +32,7 @@ const Home = ({ data: gqlData }) => {
               link={slugify(inventory[2].name)}
             />
             <Footer
-              designer="Jason Bourne"
+              Web Development="Nurul Ulfatil Ummah"
             />
           </div>
           <div className="flex flex-1 justify-center items-center relative">
