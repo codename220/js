@@ -3,7 +3,7 @@
   "private": true,
   "description": "An E Commerce starter for Gatsby",
   "version": "0.1.0",
-  "author": "Nader Dabit <dabit3@gmail.com>",
+  "author": "Aris Prasetyo<arisprasetiyo1@gmail.com>",
   "dependencies": {
     "@stripe/react-stripe-js": "^1.0.0-beta.6",
     "@stripe/stripe-js": "^1.0.0-beta.8",
