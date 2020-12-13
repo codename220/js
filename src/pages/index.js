@@ -50,8 +50,8 @@ const Home = ({ data: gqlData }) => {
         <DisplayMedium imageSrc={categories[1].image} subtitle={`${categories[1].itemCount} items`} title={titleIfy(categories[1].name)} link={slugify(categories[1].name)} />
       </div>
       <div className="pt-10 pb-6 flex flex-col items-center">
-        <h2 className="text-4xl mb-3">Trending Now</h2>
-        <p className="text-gray-600 text-sm">Find the perfect piece or accessory to finish off your favorite room in the house.</p>
+        <h2 className="text-4xl mb-3">Food Delicious</h2>
+        <p className="text-gray-600 text-sm">Pesen Burger Satu Neng Cod Nang Umahmu Ae Cek Ketemu Mertua 😂😂😂😂😂</p>
       </div>
       <div className="my-8 flex flex-col lg:flex-row justify-between">
         <DisplaySmall imageSrc={inventory[0].image} title={inventory[0].name} subtitle={inventory[0].categories[0]} link={slugify(inventory[0].name)} />
