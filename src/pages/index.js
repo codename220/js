@@ -51,7 +51,7 @@ const Home = ({ data: gqlData }) => {
       </div>
       <div className="pt-10 pb-6 flex flex-col items-center">
         <h2 className="text-4xl mb-3">Food Delicious</h2>
-        <p className="text-gray-600 text-sm">Pesen Burger Satu Neng Cod Nang Umahmu Ae Cek Ketemu Mertua 😂😂😂😂😂</p>
+        <p className="text-gray-600 text-sm">Pesen Burger Satu Neng Cod Nang Umahmu Ae Cek Ketemu Calon Mertua 🤣🤣🤣😝😝</p>
       </div>
       <div className="my-8 flex flex-col lg:flex-row justify-between">
         <DisplaySmall imageSrc={inventory[0].image} title={inventory[0].name} subtitle={inventory[0].categories[0]} link={slugify(inventory[0].name)} />
