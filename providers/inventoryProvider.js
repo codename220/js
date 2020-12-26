@@ -10,7 +10,7 @@ type Product {
   name: String!
   image: String!
   description: String!
-  currentInventory: String!
+  currentInventory: Int!
   brand: String
 }
 */
