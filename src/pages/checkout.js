@@ -236,7 +236,7 @@ const Checkout = ({ context }) => {
                 <div className="ml-4 pl-2 flex flex-1 justify-end pr-4">
                   <p className="text-sm pr-10">Shipping</p>
                   <p className="tracking-tighter w-38 flex justify-end">
-                    FREE SHIPPING
+                     delivery by courier alaraja
                   </p>
                 </div>
                 <div className="md:ml-4 pl-2 flex flex-1 justify-end bg-gray-200 pr-4 pt-6">

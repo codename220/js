@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby JAMstack ECommerce Professional`,
     description: `Get up and running with your next E Commerce Website.`,
-    author: `@Ulfa_Imut`,
+    author: `@Aris Prasetiyo`,
   },
   plugins: [
     {
